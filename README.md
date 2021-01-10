@@ -14,7 +14,7 @@
 
 ---- 
 
-I'm studying computer engeneering at Federal University of Rio Grande do Norte (UFRN) in Brazil. I'm into back-end development, micro-controllers and dabble a little with gamedev. Been coding since 2016 🧐
+I'm studying computer engineering at Federal University of Rio Grande do Norte (UFRN) in Brazil. I'm into back-end development, micro-controllers and dabble a little with gamedev. Been coding since 2016 🧐
 
 I also like japan related stuff, learning about tech, reading and drawing occasionally.
 
