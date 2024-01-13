@@ -14,7 +14,6 @@ I'm a computer engineer, full stack software developer and tech enthusiast.
 
 ### About me
 
-- 💼 Full stack developer at [GCTI](https://gcti.parnamirim.rn.gov.br/)
 - 📚 Computer Enginner from [UFRN](https://www.ufrn.br/)
 - ❤️ I love experimenting with Python and building fun small games
 - 💪 Lifelong learner, always up for a new challenge
